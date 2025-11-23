@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`nullgrim`](https://x.com/nullgrim)**, I hunt bugs, dissect malware, and (ethically) break into systems to help fix them... occasionally pretending it's "for research."
+I'm **[`nullgrim`](https://x.com/nullgrim)**, I hunt bugs, dissect malware, and (ethically) break into systems or apps to help fix them. It's for research tho :)
 
 <details>
   <summary>More about me</summary>
