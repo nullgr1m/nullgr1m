@@ -16,15 +16,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`hackernea`](https://x.com/hackernea_)**, I hunt bugs, dissect malware, and (ethically) break into systems to help fix them... occasionally pretending it's "for research."
+I'm **[`nullgrim`](https://x.com/nullgrim)**, I hunt bugs, dissect malware, and (ethically) break into systems to help fix them... occasionally pretending it's "for research."
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: hackernea
+- **Name**: nullgr1m
 - **From**: 🏴‍☠️
 - **Pentester** | **AppSec Engineer** | **Red Teamer**
-- Improving knowledge in **Webapp Vulnerabilities**
+- Improving knowledge in **Appsec** | **Creating Exploits** | **Red Teaming** | **AI Pentesting**
 - Lifelong learner — always exploring **everything**
 </details>
 <br>
@@ -88,9 +88,9 @@ I'm **[`hackernea`](https://x.com/hackernea_)**, I hunt bugs, dissect malware, a
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackernea&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/hackernea/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=hackernea&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/hackernea/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackernea&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=nullgr1m&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/nullgr1m/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nullgr1m&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/nullgr1m/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nullgr1m&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 
