@@ -21,7 +21,7 @@ I'm **[`nullgrim`](https://x.com/nullgrim)**, I hunt bugs, dissect malware, and 
 <details>
   <summary>More about me</summary>
 
-- **Name**: nullgr1m
+- **Name**: nullgrim
 - **From**: 🏴‍☠️
 - **Pentester** | **AppSec Engineer** | **Red Teamer**
 - Improving knowledge in **Appsec** | **Creating Exploits** | **Red Teaming** | **AI Pentesting**
